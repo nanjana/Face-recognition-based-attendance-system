@@ -21,4 +21,4 @@ This project is a contactless attendance system using facial recognition, develo
 
 Below is a flowchart representing the detailed process utilized for the Face Recognition-Based Attendance System project in 2020:
 
-![Flowchart](Flowchart.pdf)
+![Flowchart](Flowchart.png)
