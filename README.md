@@ -1,5 +1,3 @@
-# Face-recognition-based-attendance-system
-
 # Face Recognition-Based Attendance System
 
 ### Project Overview:
