@@ -33,4 +33,4 @@ Below is a flowchart representing the detailed activity diagram structured for t
 
 Below is a flowchart representing the detailed system block diagram structured for the Face Recognition-Based Attendance System project in 2020:
 
-![Flowchart](System_Block_diagram.png)
+![Flowchart](System_block_diagram.png)
