@@ -1,7 +1,7 @@
 # Face Recognition-Based Attendance System
 
 ### Project Overview:
-This project is a contactless attendance system using facial recognition, developed as part of my undergraduate project. The system leverages a CNN model combined with the Eigen Faces method to recognize faces with an accuracy of 95%. It was deployed on Raspberry Pi V4 and integrated with an Intel Compute Stick using OpenCV, providing a safe solution for contactless attendance during the COVID-19 pandemic.
+This project is a contactless attendance system using facial recognition, developed as part of my undergraduate project. The system leverages a CNN model combined with the Eigen Faces method to recognize faces with an accuracy of 95%. It was deployed on Raspberry Pi V4 and integrated with an Intel Compute Stick using OpenCV, providing a safe solution for contactless attendance during the COVID-19 pandemic. The project followed the Agile Methodology in dividing the tasks and flow of the project into sprints.
 
 ### Features:
 - Contactless attendance using face recognition.
@@ -22,3 +22,15 @@ This project is a contactless attendance system using facial recognition, develo
 Below is a flowchart representing the detailed process utilized for the Face Recognition-Based Attendance System project in 2020:
 
 ![Flowchart](Flowchart.png)
+
+Below is a flowchart representing the detailed requirement diagram structured for the Face Recognition-Based Attendance System project in 2020:
+
+![Flowchart](Requirement_diagram.png)
+
+Below is a flowchart representing the detailed activity diagram structured for the Face Recognition-Based Attendance System project in 2020:
+
+![Flowchart](Activity_diagram.png)
+
+Below is a flowchart representing the detailed system block diagram structured for the Face Recognition-Based Attendance System project in 2020:
+
+![Flowchart](System_Block_diagram.png)
