@@ -16,3 +16,9 @@ This project is a contactless attendance system using facial recognition, develo
 - **OpenCV**: For image capturing and processing.
 - **Raspberry Pi V4**: For hardware integration.
 - **Intel Compute Stick**: For accelerated AI processing.
+
+## Project Workflow
+
+Below is a flowchart representing the detailed process utilized for the Face Recognition-Based Attendance System project in 2020:
+
+![Flowchart](flowchart.png)
